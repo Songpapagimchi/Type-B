@@ -5,7 +5,7 @@
                     <div class="px-5 py-5">
                         <router-link to="/LikertQuestion">
                         <button class="flex h-48 w-full max-w-xs bg-yellow-500 hover:bg-yellow-700 justify-center items-center text-white font-bold rounded-xl">
-                            B타입(일반성향)</button>
+                            B타입(그림한개,5개척도 답변)</button>
                         </router-link>
                     </div>
    
